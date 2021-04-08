@@ -12,6 +12,9 @@ The plugin has a page for change default order status. This is page is in the 'S
 The plugin is using i18n functions. So you can translate it to your language.
 <br/>Already translated for Persian
 
+## Plugin in wordpress core
+[See 'Add to order' in wordpress.org](https://wordpress.org/plugins/add-to-order)
+
 ## Installation
 At first download the plugin and extract it to {wp root}/wp-content/plugins
 <br/>Then active it from plugins section in wordpress dashboard
