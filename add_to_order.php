@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Add to order
-Plugin URI: https://wordpress.org/plugins/add-to-order/
+Plugin URI: https://wordpress.org/plugins/add-to-order
 Description: Change the action of the 'add to cart' button to submit an order for the product
-Version: 1.0.0.0
+Version: 1.0.0.1
 Author: Mohammad Jafar Khajeh
 Author URI: http://mjkhajeh.com
 Text Domain: mjato

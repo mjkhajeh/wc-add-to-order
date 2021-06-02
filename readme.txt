@@ -3,8 +3,8 @@ Contributors: mjkhajeh
 Donate link: https://zarinp.al/@zantium
 Tags: wc, WooCommerce, order, add to cart, wc order, WooCommerce order
 Requires at least: 4.7
-Tested up to: 5.9
-Stable tag: 1.0.0.0
+Tested up to: 5.7.2
+Stable tag: 1.0.0.1
 Requires PHP: 7.2
 License: WTFPL
 License URI: https://en.wikipedia.org/wiki/WTFPL
